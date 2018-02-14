@@ -1,1 +1,40 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloWorldApp // This could be the name
+{
+    class Program // ask tutor what this is. (the definition)
+    {
+        static void Main(string[] args)
+        {
+            //Izsaucam savu izveidoto funkciju
+            SayHello(); //Looks llike just says Hello :D | on python prints "Hello"
+            SayHello();
+            SayHello();
+            SayHelloToUser();
+            // Uz pavisam pelekaas linijas (pirms linijas numura spiezhot) var uzspiest un paradas sarkans punkts f10 var vinu ieslegt.
+            // Izsaucam savu otro izveidoto funkciju
+        }
+        static void SayHelloToUser() //Laikam otraa funkcija. !!!!!!!!!!Ask Tutor YY, NN!!!!!!!!! Answer: ?
+        {
+            
+           
+            Console.WriteLine("Please enter your name:");//Paludzam lietotajam ierakstiit savu  vardu
+            //Izveidojam mainigo, kur glabaat lietotaja ievadito vertibu
+            string usersName;
+            //paprasam konsolei ievadit tekstu, saglabajam rezultaatu mainigo
+            usersName = Console.ReadLine();
+            Console.WriteLine("Labdien," + usersName +"!"); //Labdien, pievienojas userneims un tad vel izsaukuma zime.
+            
+            Console.ReadLine();
+        }
+        static void SayHello()
+        {    Console.WriteLine("Hello, world!");
+            Console.ReadLine();
+            }
+    }
+}
 
