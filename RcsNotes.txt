@@ -1,0 +1,50 @@
+------------------------------------------DO NOT FORGET, JUST IN CASE --------------------------
+GITHUB account; savienot laptopu ar githubu; uztaisiit codu, un updeidot, ar iespeju salabot.
+how to use github desktop. github ignore files  for exe files.
+Kas ir versiju kommandas blabla...???
+pievienot githubignore un -> Rename gitignore.tx to .gitignore
+Lekcijas beigas pajautaa lai palidz sataisit github ar ignoru.
+
+----------------------------------UNASNWERED QUESTIONS OR JUST A QUESTIONS ------------------
+MAKE that "GitHubIgnore" working. - vnk ignoree papildfailus. 
+??????????HOW TO DELETE SOMETHING FROM GITHUB???
+
+
+------------------------Lekciju Linki-------------------
+1.) https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db4gxGvp2ghA&h=ATPSGshYz19EIi-2guOnhhb1e9I4OW12LPVLRujYdr4qcj3O3a9_sBV0wmeYLnyN9RiXyOH99MrBDink292GvFcoxpocQLYwNY2cL2duJcE9lrkmPaBLARHuXO0WS3mWVlD1UctRw3B9LUtN
+2.) 
+
+
+
+
+--------------------------------------------------Notes that could help---------------------------------
+
+decomplatori parveido exe failu par c sharp kodu, lai to vareetu izlasiit.
+debuggeris - 	
+Funkcija saakas ar lielo burtu un mainiigais ar mazo.
+------------------------------------------------VisualStrudio ShortCuts: -------------------------------
+  f5 - palaist
+  f10 - debuggeris
+  f11 -
+
+apalas iekavas lai izsauktu funkciju. parasti semikols(;) beigas.
+
+
+ 
+------------------------------GIT HUB--------------------------------------------
+
+HOW - TO'S GIT hub "github using git" https://help.github.com/articles/cloning-a-repository/
+---------------------------------------------------------------------------------
+
+
+
+---------------------------------------------------   RCS SUMMARY -------------------------
+
+  ----------------2/13/2018--------------------
+1.) write one two lines in virtual studio. 2.) created github account 3) trying github desktop app.
+
+ ---------------------------------------------------2/14/2018------
+
+
+--------------------------------------------------------------------------------------------------2/15/2018------------
+
